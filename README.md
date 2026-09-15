@@ -90,14 +90,6 @@ startActivity(cameraIntent)
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/maharsh-patel/MAD_24012011102_Practical_3.git
-   ```
-2. Open the project in **Android Studio** (Giraffe / Hedgehog or newer).
-3. Sync Gradle dependencies.
-4. Run on an Emulator or a physical Android Device (API 24+ recommended).
 
 ---
 
